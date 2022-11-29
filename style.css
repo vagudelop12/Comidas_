@@ -1,0 +1,19 @@
+.titulo-1{
+    color:black;
+    background-color:thistle;
+    
+}
+body{
+    background-image: url(https://st3.depositphotos.com/11277488/35333/i/950/depositphotos_353330890-stock-photo-healthy-sunday-breakfast-croissants-waffles.jpg);
+    background-size: cover;
+}
+.buttom{
+    background-color:mediumpurple;
+}
+.buttom p{
+    color: aliceblue;
+}
+tr{
+    background-color: rgb(235, 205, 235);
+    color: black;
+}
